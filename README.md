@@ -1,4 +1,4 @@
-# Docker Flask App Deployment 🚀
+# 🚀 Docker Flask App Deployment 🚀
 
 This repo demonstrates how to deploy a simple Python Flask application using Docker. The Flask app is containerized and can be run easily in any environment with Docker.
 
